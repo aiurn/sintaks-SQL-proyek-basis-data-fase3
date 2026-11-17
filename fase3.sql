@@ -1,5 +1,5 @@
 -- 1. Membuat database
-CREATE DATABASE Draft;
+CREATE DATABASE KlinikPrestasi;
 
 
 --— Tier 1
